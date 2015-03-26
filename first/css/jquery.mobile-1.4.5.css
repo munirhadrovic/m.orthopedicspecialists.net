@@ -1186,7 +1186,7 @@ html head + body .ui-btn.ui-btn-b:visited {
 	background: -o-linear-gradient(#7ad3e2, #415A86); /* For Opera 11.1 to 12.0 */
 	background: -moz-linear-gradient(#7ad3e2, #415A86); /* For Firefox 3.6 to 15 */
 	background: linear-gradient(#7ad3e2,#415A86); /* Standard syntax */
-	border-color:	 		#fff; /*{b-bup-border}*/;
+	border:	 		none; /*{b-bup-border}*/;
 	color: 					#fff /*{b-bup-color}*/;
 	text-shadow: 0 /*{b-bup-shadow-x}*/ 1px /*{b-bup-shadow-y}*/ 0 /*{b-bup-shadow-radius}*/ #111 /*{b-bup-shadow-color}*/;
 }
